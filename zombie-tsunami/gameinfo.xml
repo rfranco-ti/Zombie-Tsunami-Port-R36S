@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./zombie-tsunami.sh</path>
+    <name>Zombie Tsunami</name>
+    <desc>Zombie Tsunami: corra, coma cerebros e transforme a cidade em um exercito de zumbis. Port nativo AArch64 a partir do APK do proprio jogador (engine Mobi/cocos2d-x fork, GLES2, FMOD).</desc>
+    <developer>Mobigame</developer>
+    <publisher>Mobigame</publisher>
+    <genre>Runner</genre>
+    <players>1</players>
+  </game>
+</gameList>

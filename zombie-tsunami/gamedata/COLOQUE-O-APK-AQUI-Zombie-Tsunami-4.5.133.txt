@@ -1,0 +1,16 @@
+ZOMBIE TSUNAMI — DADOS DO JOGO
+==============================
+
+Este port NAO acompanha os dados do jogo. Coloque o APK nesta pasta
+(gamedata/) antes de abrir o port pela primeira vez.
+
+Arquivo aceito (o nome do arquivo nao importa; o conteudo e' validado):
+
+  pacote......: net.mobigame.zombietsunami
+  versao......: 4.5.133 (versionCode 202)
+  tamanho.....: 77165679 bytes
+  SHA-256.....: 6a4120730ccf9f1e1df03ad1144ba67b5615a99ad68c50fbcc875348c49dda49
+
+Tambem sao aceitos pacotes .apkm/.xapk que contenham este APK base.
+Se a versao for outra, o instalador mostra a versao encontrada e a esperada.
+Depois da instalacao o APK pode ser removido: os dados ficam em payload/.

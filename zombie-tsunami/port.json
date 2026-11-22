@@ -1,0 +1,33 @@
+{
+  "version": 4,
+  "name": "zombie-tsunami.zip",
+  "items": [
+    "Zombie Tsunami.sh",
+    "zombie-tsunami"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Zombie Tsunami",
+    "porter": [
+      "comunidade"
+    ],
+    "desc": "Zombie Tsunami: corra, coma cerebros e transforme a cidade num exercito de zumbis. Port nativo AArch64 a partir do APK do proprio jogador, sem emulacao: engine Mobi (fork de cocos2d-x) rodando com GLES2 e FMOD no firmware. O controle vira um cursor de toque: o analogico esquerdo move, A/B/X/Y e L3 clicam (com press-and-hold), START abre a pausa e SELECT volta.",
+    "inst": "Extraia o pacote em ports/, mantendo Zombie Tsunami.sh ao lado da pasta zombie-tsunami/. Coloque o APK 4.5.133 em zombie-tsunami/gamedata/ (qualquer nome de arquivo; o conteudo e' validado por versao e SHA-256). Na primeira execucao o instalador nativo valida, extrai com staging atomico e grava o marker; nos boots seguintes o jogo abre direto. O APK nunca e' apagado.",
+    "genres": [
+      "runner",
+      "arcade"
+    ],
+    "image": {
+      "cover": "cover.png",
+      "screenshot": "screenshot.png",
+      "icon": "icon.png"
+    },
+    "rtr": false,
+    "runtime": null,
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ],
+    "min_glibc": "2.17"
+  }
+}

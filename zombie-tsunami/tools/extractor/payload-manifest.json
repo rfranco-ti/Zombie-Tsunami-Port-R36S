@@ -1,0 +1,39 @@
+{
+  "apk": {
+    "package": "net.mobigame.zombietsunami",
+    "sha256": "6a4120730ccf9f1e1df03ad1144ba67b5615a99ad68c50fbcc875348c49dda49",
+    "size": 77165679,
+    "version": "4.5.133",
+    "version_code": 202
+  },
+  "assets": {
+    "anchors": [
+      "zombies/com/fmod/Master.bank",
+      "zombies/com/text/text.bin",
+      "zombies/com/gfx/sprites/menu.spr",
+      "shaders/default.vsh"
+    ],
+    "count": 158,
+    "prefix": "assets/res/",
+    "size": 64188134,
+    "tree_sha256": "ca3bd66034d776ac27d3d5f42cfd5d5e1158eba0eb7c7fe794d3faaf0d41bae2"
+  },
+  "libraries": [
+    {
+      "name": "libc++_shared.so",
+      "patched_sha256": "19bf6770928c45e7ce95a4b3113ebe6dcd3e759ceb802b040347159c5a387070",
+      "patched_size": 1014784,
+      "sha256": "19bf6770928c45e7ce95a4b3113ebe6dcd3e759ceb802b040347159c5a387070",
+      "size": 1014784
+    },
+    {
+      "name": "libcgame.so",
+      "patched_sha256": "1f46c0c6e9a4885f5190edb9107d64e0a54306777894a6ec225958bdcd4abb40",
+      "patched_size": 9937880,
+      "sha256": "1f46c0c6e9a4885f5190edb9107d64e0a54306777894a6ec225958bdcd4abb40",
+      "size": 9937880
+    }
+  ],
+  "schema": 1,
+  "version": "1.0.0"
+}
